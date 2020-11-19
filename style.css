@@ -1,0 +1,51 @@
+body{
+    background-color: #d7d6d6ff;
+    font-family: Mulish, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color: #36413eff;
+    text-align: center;
+}
+
+h3{
+    color: #5d5e60ff;
+}
+
+p{
+    text-align: justify;
+}
+
+.whoami{
+    font-size: 2em;
+}
+
+.skills{
+    font-size: larger;
+}
+
+.links{
+    font-size: small;
+}
+
+.brazil{
+    color: yellow;
+    font-size: larger;
+}
+
+.belo{
+    color: whitesmoke;
+}
+
+.minas{
+    color: tomato;
+}
+
+em{
+    color: teal;
+}
+
+img{
+    display: inline-flex;
+}
